@@ -1,7 +1,7 @@
 MMs Zabbix Installer
 ====================
 
-MMs Zabbix Installer featuring GUI deployment. 
+MMs Zabbix Installer for Windows featuring centralised GUI deployment. 
 
 Easily automate installation of Windows Zabbix agent and configuration files, for large and small domains.
 
