@@ -24,6 +24,11 @@ Version 1.0.0 first version release - see release section to download executable
 
 Enjoy.
 
+Requirements
+============
+
+.NET Framework 3.5
+
 About This Project
 ==================
 
