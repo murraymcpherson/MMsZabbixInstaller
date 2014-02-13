@@ -1,5 +1,5 @@
 MMs Zabbix Installer
-++================++
+====================
 
 MMs Zabbix Installer featuring GUI deployment. 
 
